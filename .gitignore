@@ -1,0 +1,19 @@
+.env
+!.env.example
+# Ignore node_modules
+node_modules/
+# Ignore build output
+dist/
+# Ignore logs
+logs/
+*.log
+# Ignore coverage reports
+coverage/
+# Ignore temporary files
+tmp/
+# Ignore IDE specific files
+.vscode/
+.idea/
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
